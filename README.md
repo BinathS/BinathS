@@ -16,11 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=binaths&label=Profile%20views&color=0e75b6&style=flat" alt="binaths" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/binath88" target="blank">
-    <img src="https://img.shields.io/twitter/follow/binath88?logo=twitter&style=for-the-badge" alt="binath88" />
-  </a>
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
