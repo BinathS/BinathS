@@ -21,9 +21,9 @@
   <strong style="font-size: 30px;">About me</strong>
 </p>
 
-- 🔭 I’m currently working on **learning Java, Android Studio, and GitHub**  
+- 🔭 I’m currently working on **learning Java, Database, Android Studio, and GitHub**  
 - 🌱 I’m currently learning **Java, Android Development, and SE basics**  
-- 👯 I’m looking to collaborate on **beginner-level mobile app projects**  
+- 👯 I’m looking to collaborate on **beginner-level projects**  
 - 🤝 I’m looking for help with **Android layouts, Fragments, and Kotlin**  
 - 👨‍💻 All of my projects are available at: **Coming soon! (working on university projects)**  
 - 📫 How to reach me: **binaths@icloud.com**  
