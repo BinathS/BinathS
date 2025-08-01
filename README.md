@@ -5,17 +5,11 @@
 </h1>
 <p align="center">
 <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Profile;First+Year+Software+Engineering+Student;Active+Learner;Love+to+learn+new+stuff+<3&delay=90&duration=2500">
   </a>
 </p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binaths&label=Profile%20views&color=0e75b6&style=flat" alt="binaths" />
-</p>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
