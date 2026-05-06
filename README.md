@@ -88,6 +88,7 @@
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></td>
   </tr>
+
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="50" height="50"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/></td>
@@ -101,13 +102,3 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/></td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binaths&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binaths&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
